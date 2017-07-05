@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.smartselect{font-size:20px;display:-ms-flexbox;display:flex;position:relative}.smartselect .value{font-size:20px;width:300px;height:30px;padding:0;border:1px solid #000}.smartselect .options{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;border:1px solid gray;width:300px;position:absolute;top:30px}.smartselect .options .option{cursor:pointer}.smartselect .options .option:hover{background-color:beige}
+/*# sourceMappingURL=main.09263bad.css.map*/
